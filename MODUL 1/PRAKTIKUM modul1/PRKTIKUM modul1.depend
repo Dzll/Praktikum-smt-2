@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491574705 source:c:\users\dzulkarnain_inc\documents\latihan c++\file wafi dzul\file smt 2\prktikum modul1\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
